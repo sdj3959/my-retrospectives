@@ -22,4 +22,4 @@
 
 *   **GitHub:** [https://github.com/sdj3959](https://github.com/sdj3959)
 *   **Email:** dj9099@naver.com
-*   **Blog:** [https://velog.io/@sdj3959/posts](https://velog.io/@sdj3959/posts) (운영 시)
+*   **Blog:** [https://velog.io/@sdj3959/posts](https://velog.io/@sdj3959/posts)
