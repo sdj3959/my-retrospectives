@@ -13,7 +13,7 @@
 | 날짜       | 프로젝트 명                                       | 핵심 기술 스택                                     |
 | :--------- | :------------------------------------------------ | :----------------------------------------------- |
 | 2025.06.23 ~ 2025.07.02| **[Be-Fit 프로젝트]**                             | `JavaScript`, `Gemini API`, `HTML/CSS`, `Naver 검색 API`  |
-| 2025.08.04 ~ 2025.08.21 | **[BookJuk 프로젝트]**                             | `JavaScript`, `Spring Boot`, `Spring Security`, `Spring JPA`, `Spring MVC` |
+| 2025.08.04 ~ 2025.08.21 | **[BookJuk 프로젝트]**                             | `JavaScript`, `Spring Boot`, `Spring Security`, `Spring JPA`, `Spring MVC`, `Thymeleaf` |
 
 [Be-Fit 프로젝트]: ./projects/202506/BeFit/README.md
 [BookJuk 프로젝트]: ./projects/202508BookJuk/README.md
