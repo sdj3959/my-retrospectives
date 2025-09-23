@@ -1,7 +1,9 @@
 # 📚 TropiCal 프로젝트 최종 회고록
 
 ### 📌 프로젝트 개요
-- **프로젝트 명**: TropiCal (Tropical + Calendar)
+- **팀 명**: AiceMelt (AI + Ice Melt)
+- **프로젝트 명**: WarmUpdate (WarmUp + Update)
+- **플랫폼 명**: TropiCal (Tropical + Calendar)
 - **프로젝트 목표**: 사용자의 일정, 일기 등 데이터를 기반으로 개인화된 스몰토크 주제를 추천하는 AI 스케줄러
 - **개발 기간**: 2025-09-05 ~ 2025-09-23
 - **나의 역할**: 백엔드/프론트엔드 개발 (일정 및 일기 기능 전담, 팀원의 캘린더 기능과 일정 및 일기 기능 통합)
