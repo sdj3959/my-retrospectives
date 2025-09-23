@@ -14,9 +14,11 @@
 | :--------- | :------------------------------------------------ | :----------------------------------------------- |
 | 2025.06.23 ~ 2025.07.02| **[Be-Fit 프로젝트]**                             | `JavaScript`, `Gemini API`, `HTML/CSS`, `Naver 검색 API`  |
 | 2025.08.04 ~ 2025.08.21 | **[BookJuk 프로젝트]**                             | `JavaScript`, `Spring Boot`, `Spring Security`, `Spring JPA`, `Spring MVC`, `Thymeleaf` |
+| 2025.09.05 ~ 2025.09.23 | **[WarmUpdate 프로젝트]**                             | `JavaScript`, `Spring Boot`, `Spring Security`, `Spring JPA`, `Spring MVC`, `React`, `Oauth2` |
 
 [Be-Fit 프로젝트]: ./projects/202506/BeFit/README.md
 [BookJuk 프로젝트]: ./projects/202508BookJuk/README.md
+[WarmUpdate 프로젝트]: ./projects/202509TropiCal/README.md
 
 ---
 
