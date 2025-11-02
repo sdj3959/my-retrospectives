@@ -15,10 +15,12 @@
 | 2025.06.23 ~ 2025.07.02| **[Be-Fit 프로젝트]**                             | `JavaScript`, `Gemini API`, `HTML/CSS`, `Naver 검색 API`  |
 | 2025.08.04 ~ 2025.08.21 | **[BookJuk 프로젝트]**                             | `JavaScript`, `Spring Boot`, `Spring Security`, `Spring JPA`, `Spring MVC`, `Thymeleaf` |
 | 2025.09.05 ~ 2025.09.23 | **[WarmUpdate 프로젝트]**                             | `JavaScript`, `Spring Boot`, `Spring Security`, `Spring JPA`, `Spring MVC`, `React`, `Oauth2`, `npm`, `Axios`, `React router-dom`, `SaSS/SCSS`, `ESLint`, `Vite`, `Zustand`, `Spring Dotenv`, `QueryDSL`, `Spring AI`, `SpringDoc (OpenAPI)`, `Junit5` |
+| 2025.09.29 ~ 2025.11.03 | **[SignBell 프로젝트]** | `React`, `Vite`, `Spring Boot`, `Spring Security`, `Spring JPA`, `OAuth2`, `JWT`, `WebSocket`, `STOMP`, `Python 3.10+`, `FastAPI`, `NumPy`, `MediaPipe`, `Janus WebRTC`, `Docker`, `Kubernetes`, `AWS EKS`, `AWS RDS`, `AWS S3`, `AWS CloudFront`, `AWS ALB`, `Jenkins`, `MariaDB`, `Axios`, `SCSS Modules` |
 
 [Be-Fit 프로젝트]: ./projects/202506/BeFit/README.md
 [BookJuk 프로젝트]: ./projects/202508BookJuk/README.md
 [WarmUpdate 프로젝트]: ./projects/202509TropiCal/README.md
+[SignBell 프로젝트]: ./projects/202509SignBell/README.md
 
 ---
 
